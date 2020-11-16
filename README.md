@@ -1,8 +1,5 @@
-# DOG_FINDER
-image classification for dogs
-
-
-## 유기견 입양 프로젝트  
+# DOG_FINDER (유기견 입양 프로젝트)
+: image classification for dogs
 
 CSLEE에서 언어 시각 AI 전문가 양성과정에서 미니프로젝트로 '유기견 입양 프로젝트'를 진행하였습니다.
 
