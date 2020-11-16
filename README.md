@@ -13,6 +13,11 @@ Keras API를 사용하여, 딥러닝 모델로 개의 이미지를 품종별로 
 
 학습환경은 Kaggle notebook에서 진행하였습니다. (GPU on)
 
+# 모델 
 <img width="1091" alt="스크린샷 2020-11-16 오후 8 18 20" src="https://user-images.githubusercontent.com/66561385/99246899-68bef200-2849-11eb-9c92-1009cf55a4e8.png">
 
+# 데이터 
+<img width="1172" alt="스크린샷 2020-11-16 오후 8 24 46" src="https://user-images.githubusercontent.com/66561385/99247135-dcf99580-2849-11eb-9dbd-15d3cb3f3ec6.png">
 
+# 결과
+<img width="660" alt="스크린샷 2020-11-16 오후 8 24 29" src="https://user-images.githubusercontent.com/66561385/99247144-dec35900-2849-11eb-8121-e8535b5d44aa.png">
