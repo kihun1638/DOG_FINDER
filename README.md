@@ -15,8 +15,7 @@ Keras API를 사용하여, 딥러닝 모델로 개의 이미지를 품종별로 
 
 # 모델
 Inception V3, xception 이라는 두개의 학습된 모델을 가져와서, 전이학습함.
-
-<img width="1091" alt="스크린샷 2020-11-16 오후 8 18 20" src="https://user-images.githubusercontent.com/66561385/99246899-68bef200-2849-11eb-9c92-1009cf55a4e8.png">
+<img width="1061" alt="스크린샷 2020-11-16 오후 8 28 24" src="https://user-images.githubusercontent.com/66561385/99247641-95bfd480-284a-11eb-8ef2-2fcf4d0c3819.png">
 
 # 데이터
 kaggle 데이터 12000여장, 유기견 데이터 14000장을 사용함.
